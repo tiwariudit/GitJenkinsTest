@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/gitMavenTest/src/main/java/com/gitmaventest/gitMavenTest/App.java"/>
+<listEntry value="/Demo/src/main/java/com/test/Demo/App.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.gitmaventest.gitMavenTest.App"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="gitMavenTest"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.test.Demo.App"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Demo"/>
 <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 </launchConfiguration>
